@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Dutch Radio</title>
+		<description>Dutch radio streams</description>
+		<item>
+			<title>100% NL</title>
+			<url>http://stream.100p.nl:8000/100pctnl.mp3</url>
+			<ext>mp3</ext>
+			<thumb>http://a2.mzstatic.com/us/r1000/069/Purple/88/e6/ed/mzl.ixyexdmo.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>3FM</title>
+			<url>http://icecast.omroep.nl/3fm-bb-mp3</url>
+			<ext>mp3</ext>
+			<thumb>http://a3.mzstatic.com/us/r1000/063/Purple/5a/98/12/mzl.mbrqgbkn.175x175-75.jpg</thumb>
+		</item>
+        <item>
+			<title>Radio 538</title>
+			<url>http://82.201.100.12:8000/radio538</url>
+			<ext>mp3</ext>
+			<thumb>http://a5.mzstatic.com/us/r1000/066/Purple/a1/ed/da/mzl.pzrumkoc.175x175-75.jpg</thumb>
+		</item>
+        <item>
+			<title>53L8</title>
+			<url>http://82.201.100.10:8000/WEB21</url>
+			<ext>mp3</ext>
+			<thumb>http://www.radio538.nl/wp-content/uploads/2011/05/player_stn-53l8.jpg</thumb>
+		</item>
+		<item>
+			<title>Radio 538 Dance Department</title>
+			<url>http://82.201.100.10:8000/RD01_538_Dancedepartment</url>
+			<ext>mp3</ext>
+			<thumb>http://a4.mzstatic.com/eu/r30/Podcasts/06/e2/d9/ps.iycufxpu.170x170-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Radio 538 Hitzone</title>
+			<url>http://82.201.100.10:8000/WEB11</url>
+			<ext>mp3</ext>
+			<thumb>http://a5.mzstatic.com/us/r2000/016/Music/93/5a/1f/mzi.lfksrdbu.170x170-75.jpg</thumb>
+			
+		</item>
+		<item>
+			<title>Radio 538 Ibiza</title>
+			<url>http://82.201.100.10:8000/WEB19_MP3</url>
+			<ext>MP3</ext>
+			<thumb>http://a3.mzstatic.com/us/r20/Music/v4/1e/76/3a/1e763a2e-d047-9ea0-f0f0-c98de029dc3a/8712944503623.170x170-75.jpg</thumb>
+			
+		</item>
+		<item>
+			<title>Radio 538 Nonstop40</title>
+			<url>http://82.201.100.10:8000/RD02_NonStop40</url>
+			<ext>mp3</ext>
+			<thumb>http://a4.mzstatic.com/us/r1000/077/Purple/6e/f2/05/mzl.kuaqxeyx.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Deep FM</title>
+			<url>http://sc-01.deep.fm/</url>
+			<ext>mp3</ext>
+			<thumb>http://a4.mzstatic.com/us/r1000/110/Purple/08/06/29/mzl.tkviybvw.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Hitradio Veronica</title>
+			<url>http://5663.live.streamtheworld.com:80/VERONICAAAC_SC</url>
+			<ext>aac</ext>
+			<thumb>http://a4.mzstatic.com/us/r1000/061/Purple/b2/99/b6/mzi.ixxgxthq.175x175-75.jpg</thumb>	
+		</item>
+		<item>
+			<title>Juize FM</title>
+			<url>http://82.201.100.12:8000/juizefm</url>
+			<ext>mp3</ext>
+			<thumb>http://a1.mzstatic.com/us/r1000/118/Purple/25/33/de/mzl.ljpzrkkc.175x175-75.jpg</thumb>	
+		</item>		
+		<item>
+			<title>Omroep Zeeland</title>
+			<url>rtmp://livestream.zeelandnet.nl/live/omroepzeeland_radio_128k.sdp</url>
+			<ext>sdp</ext>
+			<thumb></thumb>			
+		</item>
+		<item>
+			<title>Q-music</title>
+			<url>http://vip2.str.reasonnet.com/qmusic.aac.32</url>
+			<ext>aac</ext>
+			<thumb>http://a3.mzstatic.com/us/r1000/098/Purple/7e/d6/6d/mzl.jkhmqjkg.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>RTL Lounge</title>
+			<url>http://www.rtl.nl/experience/rtllounge/player/listen.pls</url>
+			<ext>mp3</ext>
+			<thumb>http://a4.mzstatic.com/us/r1000/032/Music/58/18/b7/mzi.ribvxqfj.170x170-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Radio 10 Gold Top 4000</title>
+			<url>http://82.201.100.23/WEB03-R10GTop4000</url>
+			<ext>aac</ext>
+			<thumb>http://farm4.static.flickr.com/3148/3005005090_e28e7ef4de.jpg</thumb>
+		</item>
+		<item>
+			<title>Radio 1</title>
+			<url>http://ics2bss.omroep.nl/radio1-bb.mp3?q=/npo/mp3/radio1-bb.pls</url>
+			<ext>mp3</ext>
+			<thumb>http://a1.mzstatic.com/us/r1000/087/Purple/f6/1b/ab/mzm.ruzxturh.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Radio 2</title>
+			<url>http://ics2bss.omroep.nl/radio2-bb.mp3?q=/npo/mp3/radio2-bb.pls</url>
+			<ext>mp3</ext>
+			<thumb>http://a4.mzstatic.com/us/r1000/119/Purple/f7/71/4f/mzl.enefludm.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Radio 4</title>
+			<url>http://ics2bss.omroep.nl/radio4-bb.mp3?q=/npo/mp3/radio4-bb.pls</url>
+			<ext>mp3</ext>
+			<thumb>http://a2.mzstatic.com/us/r1000/100/Purple/02/51/65/mzl.qmroxoxk.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Radio 5 Nostalgia</title>
+			<url>http://ics2bss.omroep.nl/radio5-bb.mp3?q=/npo/mp3/radio5-bb.pls</url>
+			<ext>mp3</ext>
+			<thumb>http://a4.mzstatic.com/us/r1000/109/Purple/9b/a8/44/mzl.gdpdjbdt.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Radio 6</title>
+			<url>http://ics2bss.omroep.nl/radio6-bb.mp3?q=/npo/mp3/radio6-bb.pls</url>
+			<ext>mp3</ext>
+			<thumb>http://a2.mzstatic.com/us/r1000/113/Purple/2e/a9/8c/mzl.azksriba.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Sky Radio</title>
+			<url>http://5713.live.streamtheworld.com:80/SKYRADIOAAC_SC</url>
+			<ext>aac</ext>
+			<thumb>http://a3.mzstatic.com/us/r1000/081/Purple/8c/0e/20/mzl.sawmnqei.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Sky Radio Lovesongs</title>
+			<url>http://5663.live.streamtheworld.com:80/SKYLOVEAAC_SC</url>
+			<ext>aac</ext>
+			<thumb>http://www.nummergemist.com/img/radio/sky_radio_love.png</thumb>
+		</item>
+		<item>
+			<title>Sky Radio NL</title>
+			<url>http://5713.live.streamtheworld.com:80/SKYNLAAC_SC</url>
+			<ext>aac</ext>
+			<thumb></thumb>
+		</item>
+		<item>
+			<title>SkyRadio Christmas</title>
+			<url>http://213.75.57.119/SEASONALAAC</url>
+			<ext>aac</ext>
+			<thumb>http://a3.mzstatic.com/us/r1000/077/Purple/95/ee/d5/mzl.rqyrsgnz.175x175-75.jpg</thumb>
+		</item>
+		<item>
+			<title>Slam!FM</title>
+			<url>http://82.201.100.10:8000/SLAMFM_MP3_HQ</url>
+			<ext>mp3</ext>
+			<thumb>http://a5.mzstatic.com/us/r1000/091/Purple/e8/37/6c/mzl.tgmmxybk.175x175-75.jpg</thumb>
+		</item>
+	</channel>
+</rss>
