@@ -1,6 +1,7 @@
 NAME = 'NL Internet Radio'
 ART = 'art-default.jpg'
 ICON = 'icon-default.png'
+FEED = 'https://raw.github.com/sander1/NLInternetRadio.bundle/master/Contents/Resources/radio.xml'
 
 ####################################################################################################
 def Start():
@@ -9,14 +10,14 @@ def Start():
 	ObjectContainer.art = R(ART)
 	DirectoryObject.thumb = R(ICON)
 
-	HTTP.CacheTime = CACHE_1HOUR
+	HTTP.CacheTime = 0
 
 ####################################################################################################
 @handler('/music/nlinternetradio', NAME, thumb=ICON, art=ART)
 def MainMenu():
 
 	oc = ObjectContainer()
-	xml = XML.ElementFromURL('http://bit.ly/txlk5T')
+	xml = XML.ElementFromURL(FEED)
 
 	for item in xml.xpath('//item'):
 		ext = item.xpath('./ext/text()')[0].lower()

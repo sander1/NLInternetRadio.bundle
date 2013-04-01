@@ -60,6 +60,12 @@
 			<thumb>http://a4.mzstatic.com/us/r1000/110/Purple/08/06/29/mzl.tkviybvw.175x175-75.jpg</thumb>
 		</item>
 		<item>
+			<title>FuzionRadio.FM</title>
+			<url>http://live.fuzionradio.fm:8000/</url>
+			<ext>mp3</ext>
+			<thumb></thumb>
+		</item>
+		<item>
 			<title>Hitradio Veronica</title>
 			<url>http://5663.live.streamtheworld.com:80/VERONICAAAC_SC</url>
 			<ext>aac</ext>
