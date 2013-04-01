@@ -19,10 +19,16 @@ def MainMenu():
 	xml = XML.ElementFromURL('http://bit.ly/txlk5T')
 
 	for item in xml.xpath('//item'):
+		ext = item.xpath('./ext/text()')[0]
+
+		if ext not in ('aac', 'mp3'):
+			continue
+
 		title = item.xpath('./title/text()')[0]
 		url = item.xpath('./url/text()')[0]
-		ext = item.xpath('./ext/text()')[0]
-		thumb = item.xpath('./thumb/text()')[0]
+
+		try: thumb = item.xpath('./thumb/text()')[0]
+		except: thumb = ''
 
 		oc.add(CreateTrackObject(
 			title = title,
@@ -34,6 +40,7 @@ def MainMenu():
 	return oc
 
 ####################################################################################################
+@route('/music/nlinternetradio/track')
 def CreateTrackObject(title, url, ext, thumb, include_container=False):
 
 	if ext == 'aac':
