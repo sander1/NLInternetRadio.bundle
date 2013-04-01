@@ -1,0 +1,165 @@
+[
+	{
+		"title": "100% NL",
+		"url": "http://stream.100p.nl:8000/100pctnl.mp3",
+		"ext": "mp3",
+		"thumb": "http://a2.mzstatic.com/us/r1000/069/Purple/88/e6/ed/mzl.ixyexdmo.175x175-75.jpg"
+	},
+	{
+		"title": "3FM",
+		"url": "http://icecast.omroep.nl/3fm-bb-mp3",
+		"ext": "mp3",
+		"thumb": "http://a3.mzstatic.com/us/r1000/063/Purple/5a/98/12/mzl.mbrqgbkn.175x175-75.jpg"
+	},
+	{
+		"title": "Radio 538",
+		"url": "http://82.201.100.12:8000/radio538",
+		"ext": "mp3",
+		"thumb": "http://a5.mzstatic.com/us/r1000/066/Purple/a1/ed/da/mzl.pzrumkoc.175x175-75.jpg"
+	},
+	{
+		"title": "53L8",
+		"url": "http://82.201.100.10:8000/WEB21",
+		"ext": "mp3",
+		"thumb": "http://www.radio538.nl/wp-content/uploads/2011/05/player_stn-53l8.jpg"
+	},
+	{
+		"title": "Radio 538 Dance Department",
+		"url": "http://82.201.100.10:8000/RD01_538_Dancedepartment",
+		"ext": "mp3",
+		"thumb": "http://a4.mzstatic.com/eu/r30/Podcasts/06/e2/d9/ps.iycufxpu.170x170-75.jpg"
+	},
+	{
+		"title": "Radio 538 Hitzone",
+		"url": "http://82.201.100.10:8000/WEB11",
+		"ext": "mp3",
+		"thumb": "http://a5.mzstatic.com/us/r2000/016/Music/93/5a/1f/mzi.lfksrdbu.170x170-75.jpg"
+	},
+	{
+		"title": "Radio 538 Ibiza",
+		"url": "http://82.201.100.23/WEB19_WEB_AAC",
+		"ext": "aac",
+		"thumb": "http://a3.mzstatic.com/us/r20/Music/v4/1e/76/3a/1e763a2e-d047-9ea0-f0f0-c98de029dc3a/8712944503623.170x170-75.jpg"
+	},
+	{
+		"title": "Radio 538 Nonstop40",
+		"url": "http://82.201.100.10:8000/RD02_NonStop40",
+		"ext": "mp3",
+		"thumb": "http://a4.mzstatic.com/us/r1000/077/Purple/6e/f2/05/mzl.kuaqxeyx.175x175-75.jpg"
+	},
+	{
+		"title": "Radio 538 Party",
+		"url": "http://82.201.100.10:8000/WEB16",
+		"ext": "mp3"
+	},
+	{
+		"title": "Deep FM",
+		"url": "http://sc-01.deep.fm/",
+		"ext": "mp3",
+		"thumb": "http://a4.mzstatic.com/us/r1000/110/Purple/08/06/29/mzl.tkviybvw.175x175-75.jpg"
+	},
+	{
+		"title": "FunX",
+		"url": "http://icecast.omroep.nl/funx-bb-mp3",
+		"ext": "mp3"
+	},
+	{
+		"title": "FuzionRadio.FM",
+		"url": "http://live.fuzionradio.fm:8000/",
+		"ext": "mp3"
+	},
+	{
+		"title": "Hitradio Veronica",
+		"url": "http://5663.live.streamtheworld.com:80/VERONICAAAC_SC",
+		"ext": "aac",
+		"thumb": "http://a4.mzstatic.com/us/r1000/061/Purple/b2/99/b6/mzi.ixxgxthq.175x175-75.jpg"
+	},
+	{
+		"title": "Juize FM",
+		"url": "http://82.201.100.9:8000/juizefm",
+		"ext": "mp3",
+		"thumb": "http://a1.mzstatic.com/us/r1000/118/Purple/25/33/de/mzl.ljpzrkkc.175x175-75.jpg"
+	},
+	{
+		"title": "Omroep Zeeland",
+		"url": "rtmp://livestream.zeelandnet.nl/live/omroepzeeland_radio_128k.sdp",
+		"ext": "sdp"
+	},
+	{
+		"title": "Q-music",
+		"url": "http://vip2.str.reasonnet.com/qmusic.aac.32",
+		"ext": "aac",
+		"thumb": "http://a3.mzstatic.com/us/r1000/098/Purple/7e/d6/6d/mzl.jkhmqjkg.175x175-75.jpg"
+	},
+	{
+		"title": "RTL Lounge",
+		"url": "http://www.rtl.nl/experience/rtllounge/player/listen.pls",
+		"ext": "mp3",
+		"thumb": "http://a4.mzstatic.com/us/r1000/032/Music/58/18/b7/mzi.ribvxqfj.170x170-75.jpg"
+	},
+	{
+		"title": "Radio 10 Gold Top 4000",
+		"url": "http://82.201.100.23/WEB03-R10GTop4000",
+		"ext": "aac",
+		"thumb": "http://farm4.static.flickr.com/3148/3005005090_e28e7ef4de.jpg"
+	},
+	{
+		"title": "Radio 1",
+		"url": "http://icecast.omroep.nl/radio1-bb-mp3",
+		"ext": "mp3",
+		"thumb": "http://a1.mzstatic.com/us/r1000/087/Purple/f6/1b/ab/mzm.ruzxturh.175x175-75.jpg"
+	},
+	{
+		"title": "Radio 2",
+		"url": "http://icecast.omroep.nl/radio2-bb-mp3",
+		"ext": "mp3",
+		"thumb": "http://a4.mzstatic.com/us/r1000/119/Purple/f7/71/4f/mzl.enefludm.175x175-75.jpg"
+	},
+	{
+		"title": "Radio 4",
+		"url": "http://icecast.omroep.nl/radio4-bb-mp3",
+		"ext": "mp3",
+		"thumb": "http://a2.mzstatic.com/us/r1000/100/Purple/02/51/65/mzl.qmroxoxk.175x175-75.jpg"
+	},
+	{
+		"title": "Radio 5",
+		"url": "http://icecast.omroep.nl/radio5-bb-mp3",
+		"ext": "mp3",
+		"thumb": "http://a4.mzstatic.com/us/r1000/109/Purple/9b/a8/44/mzl.gdpdjbdt.175x175-75.jpg"
+	},
+	{
+		"title": "Radio 6",
+		"url": "http://icecast.omroep.nl/radio6-bb-mp3",
+		"ext": "mp3",
+		"thumb": "http://a2.mzstatic.com/us/r1000/113/Purple/2e/a9/8c/mzl.azksriba.175x175-75.jpg"
+	},
+	{
+		"title": "Sky Radio",
+		"url": "http://5713.live.streamtheworld.com:80/SKYRADIOAAC_SC",
+		"ext": "aac",
+		"thumb": "http://a3.mzstatic.com/us/r1000/081/Purple/8c/0e/20/mzl.sawmnqei.175x175-75.jpg"
+	},
+	{
+		"title": "Sky Radio Lovesongs",
+		"url": "http://5663.live.streamtheworld.com:80/SKYLOVEAAC_SC",
+		"ext": "aac",
+		"thumb": "http://www.nummergemist.com/img/radio/sky_radio_love.png"
+	},
+	{
+		"title": "Sky Radio NL",
+		"url": "http://5713.live.streamtheworld.com:80/SKYNLAAC_SC",
+		"ext": "aac"
+	},
+	{
+		"title": "SkyRadio Christmas",
+		"url": "http://213.75.57.119/SEASONALAAC",
+		"ext": "aac",
+		"thumb": "http://a3.mzstatic.com/us/r1000/077/Purple/95/ee/d5/mzl.rqyrsgnz.175x175-75.jpg"
+	},
+	{
+		"title": "Slam!FM",
+		"url": "http://82.201.100.10:8000/SLAMFM_MP3_HQ",
+		"ext": "mp3",
+		"thumb": "http://a5.mzstatic.com/us/r1000/091/Purple/e8/37/6c/mzl.tgmmxybk.175x175-75.jpg"
+	}
+]

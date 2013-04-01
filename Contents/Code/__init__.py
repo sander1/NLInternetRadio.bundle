@@ -16,25 +16,22 @@ def Start():
 def MainMenu():
 
 	oc = ObjectContainer()
-	xml_data = Resource.Load('radio.xml')
-	xml = XML.ElementFromString(xml_data)
+	json_obj = JSON.ObjectFromString(Resource.Load('radio.json'))
 
-	for item in xml.xpath('//item'):
-		ext = item.xpath('./ext/text()')[0].lower()
+	for station in json_obj:
 
-		if ext not in ('aac', 'mp3'):
+		if station['ext'] not in ('aac', 'mp3'):
 			continue
 
-		title = item.xpath('./title/text()')[0]
-		url = item.xpath('./url/text()')[0]
-
-		try: thumb = item.xpath('./thumb/text()')[0]
-		except: thumb = ''
+		if 'thumb' in station:
+			thumb = station['thumb']
+		else:
+			thumb = ''
 
 		oc.add(CreateTrackObject(
-			title = title,
-			url = url,
-			ext = ext,
+			title = station['title'],
+			url = station['url'],
+			ext = station['ext'],
 			thumb = thumb
 		))
 
