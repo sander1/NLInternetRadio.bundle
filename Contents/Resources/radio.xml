@@ -15,13 +15,13 @@
 			<ext>mp3</ext>
 			<thumb>http://a3.mzstatic.com/us/r1000/063/Purple/5a/98/12/mzl.mbrqgbkn.175x175-75.jpg</thumb>
 		</item>
-        <item>
+		<item>
 			<title>Radio 538</title>
 			<url>http://82.201.100.12:8000/radio538</url>
 			<ext>mp3</ext>
 			<thumb>http://a5.mzstatic.com/us/r1000/066/Purple/a1/ed/da/mzl.pzrumkoc.175x175-75.jpg</thumb>
 		</item>
-        <item>
+		<item>
 			<title>53L8</title>
 			<url>http://82.201.100.10:8000/WEB21</url>
 			<ext>mp3</ext>
@@ -38,14 +38,12 @@
 			<url>http://82.201.100.10:8000/WEB11</url>
 			<ext>mp3</ext>
 			<thumb>http://a5.mzstatic.com/us/r2000/016/Music/93/5a/1f/mzi.lfksrdbu.170x170-75.jpg</thumb>
-			
 		</item>
 		<item>
 			<title>Radio 538 Ibiza</title>
 			<url>http://82.201.100.10:8000/WEB19_MP3</url>
 			<ext>MP3</ext>
 			<thumb>http://a3.mzstatic.com/us/r20/Music/v4/1e/76/3a/1e763a2e-d047-9ea0-f0f0-c98de029dc3a/8712944503623.170x170-75.jpg</thumb>
-			
 		</item>
 		<item>
 			<title>Radio 538 Nonstop40</title>
@@ -69,19 +67,19 @@
 			<title>Hitradio Veronica</title>
 			<url>http://5663.live.streamtheworld.com:80/VERONICAAAC_SC</url>
 			<ext>aac</ext>
-			<thumb>http://a4.mzstatic.com/us/r1000/061/Purple/b2/99/b6/mzi.ixxgxthq.175x175-75.jpg</thumb>	
+			<thumb>http://a4.mzstatic.com/us/r1000/061/Purple/b2/99/b6/mzi.ixxgxthq.175x175-75.jpg</thumb>
 		</item>
 		<item>
 			<title>Juize FM</title>
 			<url>http://82.201.100.12:8000/juizefm</url>
 			<ext>mp3</ext>
-			<thumb>http://a1.mzstatic.com/us/r1000/118/Purple/25/33/de/mzl.ljpzrkkc.175x175-75.jpg</thumb>	
-		</item>		
+			<thumb>http://a1.mzstatic.com/us/r1000/118/Purple/25/33/de/mzl.ljpzrkkc.175x175-75.jpg</thumb>
+		</item>
 		<item>
 			<title>Omroep Zeeland</title>
 			<url>rtmp://livestream.zeelandnet.nl/live/omroepzeeland_radio_128k.sdp</url>
 			<ext>sdp</ext>
-			<thumb></thumb>			
+			<thumb></thumb>
 		</item>
 		<item>
 			<title>Q-music</title>
