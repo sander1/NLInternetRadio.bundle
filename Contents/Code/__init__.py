@@ -47,7 +47,7 @@ def CreateTrackObject(title, url, ext, thumb, include_container=False):
 		key = Callback(CreateTrackObject, title=title, url=url, ext=ext, thumb=thumb, include_container=True),
 		rating_key = url,
 		title = title,
-		thumb = Resource.ContentsOfURLWithFallback(url=thumb, fallback=ICON)
+		thumb = Resource.ContentsOfURLWithFallback(url=thumb, fallback=ICON),
 		items = [
 			MediaObject(
 				parts = [
