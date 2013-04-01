@@ -19,7 +19,7 @@ def MainMenu():
 	xml = XML.ElementFromURL('http://bit.ly/txlk5T')
 
 	for item in xml.xpath('//item'):
-		ext = item.xpath('./ext/text()')[0]
+		ext = item.xpath('./ext/text()')[0].lower()
 
 		if ext not in ('aac', 'mp3'):
 			continue
