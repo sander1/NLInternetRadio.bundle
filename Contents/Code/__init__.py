@@ -1,7 +1,6 @@
 NAME = 'NL Internet Radio'
 ART = 'art-default.jpg'
 ICON = 'icon-default.png'
-FEED = 'https://raw.github.com/sander1/NLInternetRadio.bundle/master/Contents/Resources/radio.xml'
 
 ####################################################################################################
 def Start():
@@ -17,7 +16,8 @@ def Start():
 def MainMenu():
 
 	oc = ObjectContainer()
-	xml = XML.ElementFromURL(FEED)
+	xml_data = Resource.Load('radio.xml')
+	xml = XML.ElementFromString(xml_data)
 
 	for item in xml.xpath('//item'):
 		ext = item.xpath('./ext/text()')[0].lower()
@@ -45,7 +45,7 @@ def MainMenu():
 def CreateTrackObject(title, url, ext, thumb, include_container=False):
 
 	if ext == 'aac':
-		container = Container.MP4
+		container = 'aac'
 		audio_codec = AudioCodec.AAC
 	else:
 		container = 'mp3'
