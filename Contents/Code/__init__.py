@@ -59,7 +59,7 @@ def CreateTrackObject(title, url, ext, thumb, include_container=False):
 		items = [
 			MediaObject(
 				parts = [
-					PartObject(key=url)
+					PartObject(key=Callback(Play, url=url, extension=ext))
 				],
 				container = container,
 				audio_codec = audio_codec,
@@ -72,3 +72,9 @@ def CreateTrackObject(title, url, ext, thumb, include_container=False):
 		return ObjectContainer(objects=[track_obj])
 	else:
 		return track_obj
+
+####################################################################################################
+@route('/music/nlinternetradio/play.{extension}')
+def Play(url, extension):
+
+	return Redirect(url)
